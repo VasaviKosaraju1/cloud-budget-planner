@@ -1,0 +1,26 @@
+{
+  "currency": "USD",
+  "hours_per_month": 730,
+  "monthly_budget": "100",
+  "headroom_percent": "15",
+  "services": [
+    {
+      "name": "app-compute",
+      "quantity": 2,
+      "unit_price": "0.025",
+      "unit": "hour"
+    },
+    {
+      "name": "storage",
+      "quantity": 100,
+      "unit_price": "0.10",
+      "unit": "month"
+    },
+    {
+      "name": "monitoring",
+      "quantity": 1,
+      "unit_price": "8",
+      "unit": "month"
+    }
+  ]
+}
